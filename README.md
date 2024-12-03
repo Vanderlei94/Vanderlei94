@@ -15,8 +15,9 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato comigo nas r
 
 <div>
    <a href="https://github.com/Vanderlei94">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanderlei94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanderlei94&layout=compact&langs_count=6&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanderlei94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanderlei94&layout=compact&langs_count=6&theme=tokyonight"/>
+   </a>
 </div>
 
 ### Ferramentas e Tecnologias:
